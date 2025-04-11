@@ -1,19 +1,39 @@
-# Dicee 🎲
-I Created This Simple App While I Was Learning Flutter
+# 🎲 Dicee – Flutter Dice Roller App
 
-## On My Way To Learn Flutter
-### What I Create
-  You can make the die roll at the press of a button. With this app in your pocket, you'll be able to settle any score on the go!
- 
-#### What i learn
-- How to use Flutter stateless widgets to design the user interface.
-- How to use Flutter stateful widgets to update the user interface.
-- How to change the properties of various widgets.
-- How to use onClick listeners to detect when buttons are pressed.
-- How to use setState to mark the widget tree as dirty and requiring update on the next render.
-- How to use expanded to make widgets adapt to screen dimensions.
-- Understand and use string interpolation.
-- Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
+A simple and fun dice-rolling app I built while learning Flutter. Press the button and watch the dice roll! Perfect for decision-making or just for fun.
 
+---
 
+## 🚀 What I Built
+
+Dicee is a minimalist app that rolls two dice with the tap of a button. It’s a great example of how Flutter handles UI updates and state management.
+
+<p align="center">
+  <img src="screenshots/dicee.gif" width="250" alt="Dicee App Demo" />
+</p>
+
+---
+
+## 🧠 What I Learned
+
+- ✅ How to use **StatelessWidget** and **StatefulWidget** to build dynamic UIs.
+- ✅ How to detect **button presses** using `onPressed`.
+- ✅ How to use `setState()` to refresh the UI when state changes.
+- ✅ How to layout widgets responsively using **Expanded**.
+- ✅ Mastered **string interpolation** and basic **Dart syntax**.
+- ✅ Gained experience with **gesture controls** and event handling.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** 🐦
+- **Dart** 💙
+
+---
+
+## 📲 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ravi84184/flutter_dice.git
